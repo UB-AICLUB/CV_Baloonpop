@@ -10,10 +10,12 @@ To install required packages open a terminal and run the following commands:
 > cd CV_Baloonpop
 
 > pip install -r ./requirements.txt  
+
 use pip3 incase of mac or linux
 
 Finally to run the game with:
 > python ./src/baloonpoop.py
+
 use python3 in case of mac or linux
 
 
